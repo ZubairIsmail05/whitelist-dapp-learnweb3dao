@@ -1,3 +1,6 @@
 [submodule "my-app-final"]
 	path = my-app-final
 	url = https://github.com/ZubairIsmail05/my-app-whitelist
+[submodule "my-app-working"]
+	path = my-app-working
+	url = https://github.com/ZubairIsmail05/my-app-whitelist
